@@ -20,3 +20,4 @@ Press Windows logo key  + Right or left arrow to perfectly snap windows to t
 
 Press Windows logo key  + A to get to commonly used settings like volume, brightness, and Wi-Fi.
 New shortcut added
+windows 11 shortcuts updated
