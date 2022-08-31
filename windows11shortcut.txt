@@ -19,3 +19,4 @@ Press Windows logo key  + Tab to show and switch between open windows, apps,
 Press Windows logo key  + Right or left arrow to perfectly snap windows to the sides of your screen automatically – no manual resizing or positioning needed.
 
 Press Windows logo key  + A to get to commonly used settings like volume, brightness, and Wi-Fi.
+New shortcut added
