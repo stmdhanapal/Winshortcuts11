@@ -22,3 +22,4 @@ Press Windows logo key  + A to get to commonly used settings like volume, br
 New shortcut added
 windows 11 shortcuts updated
 Win+D minimize the windows
+windows copy command added ctrl + c
